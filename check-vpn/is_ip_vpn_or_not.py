@@ -1,7 +1,7 @@
 import requests
 import ipaddress
 
-webapi="OXBtknf8JycrfA5DpPpLcjBgFNGFBzuL"
+webapi="your api key"
 site="https://ipqualityscore.com/api/json/ip/{}/{}?strictness=0&allow_public_access_points=true&fast=true&lighter_penalties=true&mobile=true"
 
 while(True):
